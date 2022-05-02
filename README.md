@@ -1,6 +1,7 @@
 # LaravelSetUp
 
-Build automatizzata per l'installazione di Laravel in sistemi UNIX.
+Build automatizzata per l'installazione di Laravel in sistema UNIX.
+Questi script sono stati testati in WSL (distro: Debian).
 
 ## Istruzioni
 
