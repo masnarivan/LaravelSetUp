@@ -6,5 +6,5 @@ chmod +x php-setup.sh
 printf "Installo Composer...\n"
 chmod +x composer-setup.sh
 ./composer-setup.sh
-mv composer.phar /usr/local/bin/composer
-printf "Composer installato!"
+sudo mv composer.phar /usr/local/bin/composer
+printf "Composer installato!\n"
