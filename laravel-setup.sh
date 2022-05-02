@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 
 printf "Installo PHP...\n"
 chmod +x php-setup.sh
